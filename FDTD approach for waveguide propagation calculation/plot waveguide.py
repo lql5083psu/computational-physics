@@ -8,7 +8,7 @@ Created on Sun Sep  9 22:35:18 2018
 import matplotlib.pyplot as plt
 import numpy as np
 
-data=np.loadtxt('trip1000.txt')
+data=np.loadtxt('waveguide.txt')
 x=data[:,0]
 y=data[:,1]
 z=data[:,2]
